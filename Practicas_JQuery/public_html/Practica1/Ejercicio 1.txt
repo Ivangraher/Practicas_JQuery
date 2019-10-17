@@ -1,0 +1,25 @@
+------ Librerias Javascript ------
+
+1 . Animateplus es una librería CSS y SVG  de animación. 
+Funciona muy bien en los dispositivos móviles, y es perfecto para pequeñas páginas. 
+Puede configurar la duración, facilitando y retrasando antes de que comience la animación.
+
+2. Notie Es una simple y ibre librería de notificación notificación JavaScript. 
+Es compatible con muchos tipos de notificaciones que incluyen alternativas para la confirmación y los cuadros de diálogo del navegador. 
+La librería le proporciona una manera fácil personalización para que coincida con su diseño.
+
+3.Wheelnav es una librería JavaScript, construida en SVG, para los menús de navegación ficha y ruedas. 
+Tiene la opción de crear menús pastel plegables con submenús opcionales. 
+A pesar de que la apariencia por defecto es una rueda puede modificar su menú fácilmente.
+
+
+
+------ Framework Javascript ------
+
+1. RactiveJS ----> http://www.ractivejs.org/
+
+2. RiotJS ----> http://riotjs.com/
+
+3. VueJS ----> http://vuejs.org/
+
+
